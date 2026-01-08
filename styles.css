@@ -8,8 +8,8 @@
 	border-radius:100px;
 }
 .link-boxes{
-	display:grid;
-	grid-template-columns: repeat(4,1fr);
+	display:flex;
+	direction:column;
 }
 .bottom-details{
 	background-color:gray;
